@@ -1,0 +1,13 @@
+Original List: [1, 2, 3, 4, 5]
+List after adding an element: [1, 2, 3, 4, 5, 6]
+List after removing an element: [1, 2, 4, 5, 6]
+List after modifying an element: [1, 2, 10, 5, 6]
+
+Original Dictionary: {'a': 1, 'b': 2, 'c': 3}
+Dictionary after adding a key-value pair: {'a': 1, 'b': 2, 'c': 3, 'd': 4}
+Dictionary after removing a key-value pair: {'a': 1, 'c': 3, 'd': 4}
+Dictionary after modifying a value: {'a': 1, 'c': 30, 'd': 4}
+
+Original Set: {1, 2, 3, 4, 5}
+Set after adding an element: {1, 2, 3, 4, 5, 6}
+Set after removing an element: {1, 2, 4, 5, 6}
